@@ -1,6 +1,6 @@
 # voters-born-before-1920
 2020 election voters born before 1920. Source: https://pastebin.com/XEi5Uy6t
-
+````
 VIVA DYER, 3/1920, 48629 ### VOTED! ### Ballot Received: 9/30/2020 (1 votes)
 CATHERINE KELLY, 4/1915, 48708 ### VOTED! ### Ballot Received: 10/13/2020 (2 votes)
 CLAUDIA MILLER, 9/1918, 48234 ### VOTED! ### Ballot Received: 10/7/2020 (3 votes)
@@ -1363,3 +1363,4 @@ ROSALIE JOHNSON, 5/1920, 48221 ### VOTED! ### BUT their ballot wasn't received
 NICK DYTYNIAK, 9/1917, 48127 ### VOTED! ### Ballot Received: 10/8/2020 (1205 votes)
 FRANCES MUELLER, 3/1918, 49901 ### VOTED! ### Ballot Received: 10/10/2020 (1206 votes)
 VIOLET BARBETT, 10/1919, 48178 ### VOTED! ### Ballot Received: 10/5/2020 (1207 votes)
+````
